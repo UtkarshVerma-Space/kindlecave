@@ -1,0 +1,14 @@
+.navboxbottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.navboxbottom button{
+    background-color: rgb(48, 48, 48);
+    color: aliceblue;
+}
