@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google'
 import Topnav from '@/components/nav/Topnav'
 import Nav from '@/components/bottomnav/nav'
 const inter = Inter({ subsets: ['latin'] })
+import NextTopLoader from 'nextjs-toploader';
 
 export const metadata = {
   title: 'Create Next App',
@@ -14,8 +15,12 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={inter.className}>
         <Topnav/>
+         <NextTopLoader
+      height={3}
+      speed={50}
+      />
         {children}
-        <Nav/>
+        {/* <Nav/> */}
         </body>
     </html>
   )

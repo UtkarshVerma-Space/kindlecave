@@ -60,7 +60,7 @@ export default function Product(props) {
     // console.log(props.id)
 
     <div  className={style.box}>
-      <div onClick={OpenModal} className={style.container}>
+      <div onClick={OpenModal} className={style.containerProduct}>
         <div className={style.prodDetails}>
           <div className={style.Img}>
             <Image width="200" height="200" src={picture}alt="profileimg" />
