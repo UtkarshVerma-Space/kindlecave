@@ -45,6 +45,7 @@ export default function Product(props) {
           <p className={style.Description}>{props.description}</p>
           </div>
           <button className={style.BuyButton}>Buy Now</button>
+
         </div>
       </div>
     );
