@@ -14,6 +14,7 @@ function MapmyCard(BooklistOne) {
       author={BooklistOne.author}
       description = {BooklistOne.description}
       publication= {BooklistOne.publication}
+      buylink = {BooklistOne.buylink}
       />
     )
   }
