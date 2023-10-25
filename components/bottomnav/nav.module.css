@@ -2,13 +2,60 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: row;
     bottom: 0;
     overflow: hidden;
     position: fixed;
     width: 100%;
     margin-bottom: 30px;
+
 }
-.navboxbottom button{
-    background-color: rgb(48, 48, 48);
-    color: aliceblue;
+
+.blur{
+    background-color: rgba(3, 3, 3, 0.452);
+    height: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    bottom: 0;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    box-shadow: 1px 1px 100px 100px rgb(221, 221, 221);
+    
+
+}
+.navboxbottom h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.87);
+    font-weight: 200;
+}
+
+.navbutton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    background-color: rgba(24, 32, 34, 0.986);
+    font-size: 20px;
+    padding: 1px;
+    width: 90%;
+    border-radius: 22px;
+}
+.buttonnav{
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.068);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    color: white;
+    background-color: #0071e3;
+    padding: 8px;
+    font-size: medium;
+    width: 120px;
+    border-radius: 22px;
+    margin: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }

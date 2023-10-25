@@ -4,6 +4,7 @@ import Image from 'next/image'
 import BooklistOne from './HomepageBooks/booklist'
 // Product Card
 import Product from '@/components/productcard/Product'
+import Nav from '@/components/bottomnav/nav'
 
 
 
@@ -33,6 +34,16 @@ We are working on making more products available to you at reasonable price. Cur
 
 
 <Homepage/>
+
+
+
+{/* Bottom Nav */}
+<Nav
+text="Explore Our Store 
+"
+buttontext="Open Store"
+linkhref="/Store/Homepage"
+/>
 
 
        </>

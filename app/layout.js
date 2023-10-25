@@ -1,7 +1,6 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
 import Topnav from '@/components/nav/Topnav'
-import Nav from '@/components/bottomnav/nav'
 const inter = Inter({ subsets: ['latin'] })
 import NextTopLoader from 'nextjs-toploader';
 
@@ -20,7 +19,6 @@ export default function RootLayout({ children }) {
       speed={50}
       />
         {children}
-        {/* <Nav/> */}
         </body>
     </html>
   )
