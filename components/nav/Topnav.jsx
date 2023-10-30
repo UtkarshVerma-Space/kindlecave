@@ -11,6 +11,7 @@ export default function Topnav() {
     <Link prefetch={false} className={style.link} href="/">
     <h1> <span>k</span>indlecave</h1>
     </Link>
+
    </div>
     </>
   )

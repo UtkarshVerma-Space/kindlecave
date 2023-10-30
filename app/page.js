@@ -6,7 +6,7 @@ import BooklistOne from './HomepageBooks/booklist'
 import Product from '@/components/productcard/Product'
 import Nav from '@/components/bottomnav/nav'
 
-
+import Link from 'next/link'
 
 
 
@@ -33,8 +33,30 @@ We are working on making more products available to you at reasonable price. Cur
 </center>
 
 
-<Homepage/>
 
+
+<p 
+style={{textAlign:"center", color:"green"}}
+>
+  <Link href="/Contacts/Contactus">
+  Contact 
+  </Link>
+  | 
+  <Link href="/Contacts/Privacy">
+  Privacy Policy 
+  </Link>
+  | About | T&C | 
+  <Link href="/Contacts/Refund">
+  Refund and cancellation 
+  </Link>
+  </p>
+
+
+
+
+
+
+<Homepage/>
 
 
 {/* Bottom Nav */}
