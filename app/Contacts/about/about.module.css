@@ -34,7 +34,9 @@ width: 100%;
 /* Table */
 
 .teamtable {
-    width: 80%;
+    font-size: 10px;
+    text-align: left;
+    width: 100%;
     margin: 20px auto;
     border-collapse: collapse;
     background-color: #fff;
