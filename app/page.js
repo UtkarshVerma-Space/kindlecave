@@ -45,7 +45,11 @@ style={{textAlign:"center", color:"green"}}
   <Link href="/Contacts/Privacy">
   Privacy Policy 
   </Link>
-  | About | T&C | 
+  | 
+  <Link href="/Contacts/about">
+  About
+  </Link>
+   | T&C | 
   <Link href="/Contacts/Refund">
   Refund and cancellation 
   </Link>
