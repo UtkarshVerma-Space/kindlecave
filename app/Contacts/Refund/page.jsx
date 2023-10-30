@@ -18,13 +18,24 @@ export default function page() {
 Return Mercnandise Authorization RMA number. After receiving a RMA number, Place the item
 securely in its original packaging and include your proof of purchase, then mail your return to the
 following address:
-kindlecave_store I Call or Contact for retum
+<br /> <hr />
+kindlecave_store | Call or Contact for retum
+<br /> <hr />
+
 Attn: Returns
 RMA#
-Awas Vikas Colony, Phase3, Khaira, Gonda, IJttar Pradesh 271001
+Awas Vikas Colony, Phase3, Khaira, Gonda, const [first, setfirst] = useState(second)ttar Pradesh 271001
+<br /> <hr />
+
 contactutkarshverma@proton.me
+<br /> <hr />
+
 Gonda, Uttar Pradesh 271001
+<br /> <hr />
+
 India
+<br /> <hr />
+
 You may also use the prepaid shipping label enclosed with your package. Return shipping charges
 will be paid or reimbursed by us.</p>
 
@@ -42,7 +53,7 @@ processed.</p>
     <li>Customized Clothes</li>
     <li>Customized Notebooks</li>
     <li>Customized Books</li>
-    <li>Visiting Card | or any other customized marketing material.</li>
+    <li>Visiting Card | or any other customized marketing material or any customization done on any product .</li>
     <p>For defective or damaged products, please contact us at the contact details below to arrange a
 refund or exchange.</p>
 </p>
