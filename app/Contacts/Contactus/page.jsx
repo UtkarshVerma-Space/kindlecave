@@ -11,7 +11,7 @@ export default function Contact() {
     <div className={style.container}>
         <div className={style.head}>
         <h1>Contact Us</h1>
-        <p>Connecting is not just a click, it's the first step towards a meaningful conversation.</p>
+        <p>Connecting is not just a click, it&apos;s the first step towards a meaningful conversation.</p>
         </div>
 
         <div className={style.contact}>

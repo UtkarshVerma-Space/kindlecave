@@ -7,7 +7,7 @@ export default function page() {
 
         <h1>Privacy Policy for kindlecave</h1>
         
-        <p>At kindlecave, accessible from kindlecave.vercel.app, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by kindlecave and how we use it.</p>
+        <p>At kindlecave, It&apos;s accessible from kindlecave.vercel.app, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by kindlecave and how we use it.</p>
         <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
         <p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in kindlecave. This policy is not applicable to any information collected offline or via channels other than this website.</p>
 
@@ -48,17 +48,17 @@ Third-party ad servers or ad networks uses technologies like cookies, JavaScript
 Note that kindlecave has no access to or control over these cookies that are used by third-party advertisers.</p>
 
 <h2>Third Party Privacy Policies</h2>
-<p>kindlecave's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+<p>kindlecave&apos;s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
 
 You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
 
 <h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
 <p>Under the CCPA, among other rights, California consumers have the right to:</p>
-<p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
+<p>Request that a business that collects a consumer&apos;s personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
 
 <p>Request that a business delete any personal data about the consumer that a business has collected.
 
-Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
+Request that a business that sells a consumer&apos;s personal data, not sell the consumer&apos;s personal data.</p>
 <p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
 
 <h2>GDPR Data Protection Rights</h2>
