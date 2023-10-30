@@ -11,11 +11,11 @@ export default function page() {
         <p>Thank you for your purcnase. We nope you are nappy with your purcnase. However, if you are not completely satisfied with your purchase for any reason, you may return it to us for a full refund, store credit, or an exchange. Please see below for more information on our return policy.</p>
 
 <h3>RETURNS</h3>
-<p>All returns must be postmarked Within seven (7) days of the purcnase date. All returned items must be in new and unused condition, with all original tags and labels attached</p>
+<p>All returns must be postmarked Within seven 7 days of the purcnase date. All returned items must be in new and unused condition, with all original tags and labels attached</p>
 
 <h3>RETURN PROCESS</h3>
 <p>To return an item, please email customer service at contactutkarshverma@proton.me to obtain a
-Return Mercnandise Authorization (RMA) number. After receiving a RMA number, Place the item
+Return Mercnandise Authorization RMA number. After receiving a RMA number, Place the item
 securely in its original packaging and include your proof of purchase, then mail your return to the
 following address:
 kindlecave_store I Call or Contact for retum
@@ -30,7 +30,7 @@ will be paid or reimbursed by us.</p>
 
 <h3>REFUNDS</h3>
 <p>After receiving your return and inspecting the condition of your item, we will process your return or
-exchange. Please allow at least seven (7) days trom the receipt of your item to process your return
+exchange. Please allow at least seven 7 days trom the receipt of your item to process your return
 or exchange. Refunds may take 1-2 billing cycles to appear on your credit card statement,
 depending on your credit card company. We will notity you by email when your retum has been
 processed.</p>
