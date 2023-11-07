@@ -63,7 +63,7 @@ export default function Product(props) {
           <div className={style.Img}>
             <Image width="200" height="200" src={picture} alt="profileimg" />
           </div>
-          <div className={style.Title}>{props.title}</div>
+          {/* <div className={style.Title}>{props.title}</div> */}
         </div>
         <div className={style.buylink}>
           <button onClick={OpenModal}>

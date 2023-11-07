@@ -1,0 +1,14 @@
+
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.heading{
+    margin-bottom: 30px;
+    font-size: 25px;
+    color: rgb(0, 255, 42)3, 134, 134;
+    font-family: cursive;
+}

@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #f7f7f7;
+    margin: 10px;
+    padding: 10px;
+    color: rgb(32, 31, 31);
+    font-weight: 300;
+    border-radius: 12px;
+    min-height: 400px;
+}

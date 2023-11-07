@@ -9,7 +9,6 @@ export default function Nav(props) {
     <>
 
   <div className={style.blur}>
-    hwllo
   </div>
 
     <div className={style.navboxbottom}>

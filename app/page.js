@@ -1,13 +1,10 @@
 " use client"
 import Homepage from '@/components/Homepage/Homepage'
 import Image from 'next/image'
-import BooklistOne from './HomepageBooks/booklist'
-// Product Card
-import Product from '@/components/productcard/Product'
 import Nav from '@/components/bottomnav/nav'
-
+import Productview from '@/components/Homepage/ProductView/Productview'
 import Link from 'next/link'
-
+import Head from 'next/head'
 
 
 
@@ -17,11 +14,24 @@ export default function Home() {
     
        <>
 
+<Head>
 
-{/* Mapping the books card */}
-{/* {BooklistOne.map(MapmyCard)} */}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Foldit&family=Satisfy&display=swap" rel="stylesheet"/>
+</link>
+</link>
+</Head>
 
 <center>
+
+
+
+
+
+
+<Homepage/>
+
 
 <p style={{maxWidth:"300px", fontSize:"12px", marginTop: "20px"}}>
 
@@ -36,7 +46,7 @@ We are working on making more products available to you at reasonable price. Cur
 
 
 <p 
-style={{textAlign:"center", color:"green"}}
+style={{textAlign:"center", color:"green", marginBottom:"200px"}}
 >
   <Link href="/Contacts/Contactus">
   Contact 
@@ -60,16 +70,10 @@ style={{textAlign:"center", color:"green"}}
 
 
 
-<Homepage/>
 
 
-{/* Bottom Nav */}
-<Nav
-text="Explore Our Store 
-"
-buttontext="Open Store"
-linkhref="/Store/Homepage"
-/>
+
+
 
 
        </>

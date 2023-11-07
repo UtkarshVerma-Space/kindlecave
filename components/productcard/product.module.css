@@ -1,21 +1,21 @@
 .containerProduct{
     word-wrap: break-word;
     border-radius: 15px;
-    max-width: 210px;
-    min-width: 200px;
+    max-width: 160px;
+    min-width: 100px;
     background-color: rgb(252, 252, 252);
     margin: 5px;
     padding: 20px;
-    /* box-shadow: 5px 5px 50px 5px rgba(69, 145, 54, 0.212); */
+    box-shadow: 5px 5px 50px 5px rgba(204, 207, 204, 0.075);
 }
 
-.box{
+/* .box{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-}
+} */
 
 .Title{
     font-weight: 900;
@@ -23,9 +23,9 @@
     display: flex;
 }
 
-.Varient{
+/* .Varient{
     color: rgba(51, 41, 41, 0.5);
-}
+} */
 
 .buylink{
     display: flex;
