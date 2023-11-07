@@ -30,7 +30,7 @@ export default function Productview() {
 
     <>
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/3170f031-1690-4417-86c7-21295387ed78/eGxh8OnYdP.json" background="##FFFFFF" speed="1" style={{width: "100px" ,height: "100px"}} loop  autoplay direction="1" mode="normal"></lottie-player>
+{/* <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/3170f031-1690-4417-86c7-21295387ed78/eGxh8OnYdP.json" background="##FFFFFF" speed="1" style={{width: "100px" ,height: "100px"}}   autoplay direction="1" mode="normal"></lottie-player> */}
 
 
 
